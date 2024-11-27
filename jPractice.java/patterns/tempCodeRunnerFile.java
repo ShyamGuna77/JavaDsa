@@ -1,0 +1,1 @@
+invervted_number(10);
